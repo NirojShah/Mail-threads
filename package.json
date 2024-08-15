@@ -1,0 +1,17 @@
+{
+  "name": "3.-mail-threads",
+  "version": "1.0.0",
+  "main": "thread1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async": "^3.2.5",
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.1"
+  }
+}
